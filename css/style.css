@@ -23,7 +23,7 @@ body {
   display: block;
   padding: 10px 20px;
   color: #fff;
-  text-decoration: none;
+  text-decoration: none; /* Remove underline from navigation links */
 }
 
 #main-navbar ul li a:hover {
@@ -31,7 +31,7 @@ body {
 }
 
 #onpage {
-  text-decoration: underline overline;
+  /* Removed text-decoration property */
 }
 
 #sidebar {
@@ -55,7 +55,7 @@ body {
   padding: 15px 0;
   color: #fff;
   text-align: center; /* Center the text within sidebar links */
-  text-decoration: none;
+  text-decoration: none; /* Remove underline from sidebar links */
 }
 
 #sidebar ul li a:hover {
