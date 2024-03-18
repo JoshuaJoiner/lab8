@@ -4,7 +4,7 @@ body {
 }
 
 #main-navbar {
-  background-color: blue;
+  background-color: orange;
   overflow: hidden;
   text-align: center; /* Center the navigation links */
 }
@@ -38,7 +38,7 @@ body {
   position: fixed;
   right: 0;
   top: 0; /* Align the sidebar to the top of the page */
-  background-color: red;
+  background-color: green;
   height: 100%;
   width: 20%;
   overflow-y: auto; /* Enable vertical scrolling if needed */
